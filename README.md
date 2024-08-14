@@ -1,4 +1,4 @@
-# Antifilter
+# Antifilter RKN Block Domains for dnsmasq.
 Block Domains:
 
 - domain.all - [All rkn block domains]
