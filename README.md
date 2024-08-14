@@ -1,5 +1,5 @@
 # Antifilter RKN Block Domains for dnsmasq.
-Block Domains:
+List of block domains:
 
 - domain.all - [All rkn block domains]
 - domain.lite - [Lite version rkn block domains]
