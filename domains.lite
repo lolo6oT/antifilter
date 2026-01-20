@@ -1137,3 +1137,5 @@ nftset=/usercontent.dev/4#inet#fw4#vpn_domains
 nftset=/tgram.org/4#inet#fw4#vpn_domains
 nftset=/torg.org/4#inet#fw4#vpn_domains
 nftset=/grokusercontent.com/4#inet#fw4#vpn_domains
+nftset=/nintendo.com/4#inet#fw4#vpn_domains
+nftset=/nintendo.net/4#inet#fw4#vpn_domains
