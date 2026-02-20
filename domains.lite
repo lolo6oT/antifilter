@@ -1157,3 +1157,4 @@ nftset=/slack-imgs.com/4#inet#fw4#vpn_domains
 nftset=/slack.dev/4#inet#fw4#vpn_domains
 nftset=/slackb.com/4#inet#fw4#vpn_domains
 nftset=/slackdns.com/4#inet#fw4#vpn_domains
+nftset=/chime.aws/4#inet#fw4#vpn_domains
