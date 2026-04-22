@@ -1197,3 +1197,4 @@ nftset=/slackb.com/4#inet#fw4#vpn_domains
 nftset=/slackdns.com/4#inet#fw4#vpn_domains
 nftset=/chime.aws/4#inet#fw4#vpn_domains
 nftset=/csa-iot.org/4#inet#fw4#vpn_domains
+nftset=/lrclib.net/4#inet#fw4#vpn_domains
