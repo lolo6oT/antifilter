@@ -1222,3 +1222,4 @@ nftset=/csa-iot.org/4#inet#fw4#vpn_domains
 nftset=/lrclib.net/4#inet#fw4#vpn_domains
 nftset=/zepp.com/4#inet#fw4#vpn_domains
 nftset=/huami.com/4#inet#fw4#vpn_domains
+nftset=/beeper.com/4#inet#fw4#vpn_domains
